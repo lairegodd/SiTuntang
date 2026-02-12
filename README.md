@@ -29,8 +29,6 @@ Aplikasi ini memiliki dua peran pengguna utama: **Warga** dan **Admin**.
 * **Dashboard Admin:** Ringkasan aktivitas desa.
 * **Manajemen Data Warga:** Melihat dan memverifikasi data penduduk yang masuk.
 * **Manajemen Surat:** Menerima, menolak, atau memproses pengajuan surat dari warga.
-* **Pengaturan:** Konfigurasi aplikasi.
-
 ---
 
 ## 🛠️ Teknologi yang Digunakan
