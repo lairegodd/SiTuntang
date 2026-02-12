@@ -40,12 +40,11 @@ Aplikasi ini dibangun menggunakan teknologi *Modern Android Development*:
 | Kategori | Teknologi / Library |
 | :--- | :--- |
 | **Bahasa Pemrograman** | [Kotlin](https://kotlinlang.org/) |
-| **UI Framework** | [Jetpack Compose](https://developer.android.com/jetpack/compose) (Material Design 3) |
+| **UI Framework** | [Jetpack Compose](https://developer.android.com/jetpack/compose) (Material 3 Expressive UI) |
 | **Arsitektur** | MVVM (Model-View-ViewModel) |
 | **Backend & Database** | [Firebase Firestore](https://firebase.google.com/docs/firestore) |
 | **Autentikasi** | [Firebase Auth](https://firebase.google.com/docs/auth) |
 | **Navigasi** | [Navigation Compose](https://developer.android.com/jetpack/compose/navigation) |
-| **Pemuat Gambar** | [Coil](https://coil-kt.github.io/coil/) |
 | **Build System** | Gradle (Kotlin DSL) |
 
 ---
