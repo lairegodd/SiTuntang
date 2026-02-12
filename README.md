@@ -92,8 +92,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal And
 
 Aplikasi ini dikembangkan dengan ❤️ oleh mahasiswa **KKN UNNES GIAT 15** di Desa Tuntang.
 
-* **Pengembang Android:** [Nama Anda/GitHub Anda]
-* **UI/UX Designer:** [Nama Anggota Tim]
+* **Pengembang Android:** [Arief Muhammad Luthfi Yanuar/ https://github.com/lairegodd]
 * **Tim KKN UNNES GIAT 15**
 
 ---
