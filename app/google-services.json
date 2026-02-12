@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524744030103",
+    "project_id": "situntang-fe13d",
+    "storage_bucket": "situntang-fe13d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524744030103:android:f2ea17e3b6f5011bd176d2",
+        "android_client_info": {
+          "package_name": "com.kkn.situntang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524744030103-ivf5qf043nr6gq8tgosr130hqd6m2s1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kkn.situntang",
+            "certificate_hash": "f092ac4a0342b83d928b8c25c87a0a33ae2c3418"
+          }
+        },
+        {
+          "client_id": "524744030103-tlgu2k0eilmeq99g6otdsilbhmja3t2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXjc9OHOvNChJoNU2i6n3toeqJAo5eNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524744030103-tlgu2k0eilmeq99g6otdsilbhmja3t2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
